@@ -1,0 +1,36 @@
+.navbar{
+    height:200px;
+    color: aliceblue;
+    border-style: double;
+    border-color: black;
+    text-align: center;
+    
+}
+
+.navbar-brand{
+    font-size: 90px;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.Card{
+    margin-top: 100px;
+    
+   
+}
+
+.row{
+    margin-top: 80px;
+    
+    
+}
+
+.footer{
+    background-image: url("https://www.teahub.io/photos/full/1-16033_45-children-backgrounds-wallpapers-kid-wallpaper-hd.jpg");
+}
+
+
+.Container{
+    background-image: url("https://t3.ftcdn.net/jpg/02/49/29/78/360_F_249297892_pZB5vDLiiW1XRZItQHx1PQAU0DOgXzUC.jpg");
+}

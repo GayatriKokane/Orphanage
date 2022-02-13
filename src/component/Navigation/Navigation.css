@@ -1,0 +1,33 @@
+.navbar{
+    background-color: rgba(243, 243, 247, 0.699);
+  
+    font-size: 25px;
+    font-style: inherit;
+    text-shadow: 0in;
+    color: black;
+    
+  
+}
+
+.navbar-brand{
+    color: rgba(16, 16, 17, 0.966) !important; 
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: inherit;
+    margin-right: 100px;
+  }
+
+
+  .navbar-brand:hover, .navbar-brand:focus {
+    color: rgba(61, 25, 194, 0.938) !important;
+    }
+
+    .sn{
+     justify-content: flex-end;
+    }
+
+    img{
+      margin-right: 30px;
+      margin-bottom: 10px ;
+      border-radius: 8px;
+    }
